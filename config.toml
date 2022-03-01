@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-gb"
 title = "Alice Gowler"
-theme = "piercer"
+theme = "ananke"
 author = "Alice Gowler"
 googleAnalytics = ""
 enableRobotsTXT = true
